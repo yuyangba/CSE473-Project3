@@ -1,0 +1,9 @@
+#Folders
+FaceDetection_Submission_Demo/*
+Json_Checker_Annotator/*
+test_images/*
+
+#Files
+create_json_sample.py
+example_results.json
+Project3-description.pdf
